@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-12T14:20:36 IST" name="Sud cloud finder E2E test suite" finished-at="2020-02-12T14:22:19 IST" duration-ms="102641">
+    <groups>
+    </groups>
+    <test started-at="2020-02-12T14:20:36 IST" name="SeleniumCloudfinder" finished-at="2020-02-12T14:22:19 IST" duration-ms="102641">
+      <class name="com.cloudfinder.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cloudfinder.qa.testcases.LoginPageTest@63a65a25]" started-at="2020-02-12T14:20:36 IST" name="setUp" finished-at="2020-02-12T14:20:50 IST" duration-ms="14421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.cloudfinder.qa.testcases.LoginPageTest@63a65a25]" started-at="2020-02-12T14:20:50 IST" name="loginPageTitleTest" finished-at="2020-02-12T14:20:50 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cloudfinder.qa.testcases.LoginPageTest@63a65a25]" started-at="2020-02-12T14:20:51 IST" name="tearDown" finished-at="2020-02-12T14:20:51 IST" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cloudfinder.qa.testcases.LoginPageTest@63a65a25]" started-at="2020-02-12T14:20:51 IST" name="setUp" finished-at="2020-02-12T14:20:58 IST" duration-ms="6972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginFailedTest()[pri:2, instance:com.cloudfinder.qa.testcases.LoginPageTest@63a65a25]" started-at="2020-02-12T14:20:58 IST" name="loginFailedTest" finished-at="2020-02-12T14:21:03 IST" duration-ms="4701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFailedTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cloudfinder.qa.testcases.LoginPageTest@63a65a25]" started-at="2020-02-12T14:21:03 IST" name="tearDown" finished-at="2020-02-12T14:21:04 IST" duration-ms="837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cloudfinder.qa.testcases.LoginPageTest@63a65a25]" started-at="2020-02-12T14:21:04 IST" name="setUp" finished-at="2020-02-12T14:21:11 IST" duration-ms="7419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginSuccessTest()[pri:3, instance:com.cloudfinder.qa.testcases.LoginPageTest@63a65a25]" started-at="2020-02-12T14:21:11 IST" name="loginSuccessTest" finished-at="2020-02-12T14:21:15 IST" duration-ms="4099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSuccessTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cloudfinder.qa.testcases.LoginPageTest@63a65a25]" started-at="2020-02-12T14:21:15 IST" name="tearDown" finished-at="2020-02-12T14:21:16 IST" duration-ms="844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cloudfinder.qa.testcases.LoginPageTest -->
+      <class name="com.cloudfinder.qa.testcases.ReportsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cloudfinder.qa.testcases.ReportsPageTest@318ba8c8]" started-at="2020-02-12T14:21:44 IST" name="setUp" finished-at="2020-02-12T14:21:55 IST" duration-ms="11158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="restoreStatus()[pri:0, instance:com.cloudfinder.qa.testcases.ReportsPageTest@318ba8c8]" started-at="2020-02-12T14:21:55 IST" name="restoreStatus" description="Tracking progress of restore" finished-at="2020-02-12T14:22:18 IST" duration-ms="23000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restoreStatus -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cloudfinder.qa.testcases.ReportsPageTest@318ba8c8]" started-at="2020-02-12T14:22:18 IST" name="tearDown" finished-at="2020-02-12T14:22:19 IST" duration-ms="913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cloudfinder.qa.testcases.ReportsPageTest -->
+      <class name="com.cloudfinder.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cloudfinder.qa.testcases.HomePageTest@54c562f7]" started-at="2020-02-12T14:21:18 IST" name="setUp" finished-at="2020-02-12T14:21:30 IST" duration-ms="12111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="restoreUser(java.lang.String, java.lang.String)[pri:-1, instance:com.cloudfinder.qa.testcases.HomePageTest@54c562f7]" started-at="2020-02-12T14:21:30 IST" name="restoreUser" description="Search and restore user" data-provider="getHomePageTestData" finished-at="2020-02-12T14:21:43 IST" duration-ms="12415" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sudersh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sudersh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restoreUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cloudfinder.qa.testcases.HomePageTest@54c562f7]" started-at="2020-02-12T14:21:43 IST" name="tearDown" finished-at="2020-02-12T14:21:44 IST" duration-ms="934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cloudfinder.qa.testcases.HomePageTest -->
+    </test> <!-- SeleniumCloudfinder -->
+  </suite> <!-- Sud cloud finder E2E test suite -->
+</testng-results>

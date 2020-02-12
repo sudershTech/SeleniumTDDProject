@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sud cloud finder E2E test suite">
+<parameter name="author" value="Sud" />
+<test name="SeleniumCloudfinder">
+<classes>
+<class name="com.cloudfinder.qa.testcases.LoginPageTest">
+</class>
+<class name="com.cloudfinder.qa.testcases.HomePageTest">
+</class>
+<class name="com.cloudfinder.qa.testcases.ReportsPageTest">
+</class>
+</classes>
+</test>
+</suite>
